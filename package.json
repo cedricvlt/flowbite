@@ -119,7 +119,7 @@
   "files": [
     "lib",
     "dist",
-    "src/themes",
+    "src",
     "types",
     "plugin.d.ts",
     "plugin.js",
